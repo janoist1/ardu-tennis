@@ -1,4 +1,4 @@
-# Raspberry Pi Mini Display Project
+# Arduino Tennis
 
 Tennis game written to Arduino - with custom-built hardware
 
